@@ -21,7 +21,7 @@ Interests: **AI/ML research** · **Agentic AI** · **Graph Theory** · **Competi
 
 
 ## 📫 Contact
-- 📧 your-email@gmail.com
+- 📧 rkmv9372@gmail.com
 - 🔗 [LinkedIn]((https://www.linkedin.com/in/anirban-pal-9b98421b2/))
 
 ---
