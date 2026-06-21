@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anirban 👋
 
-<!--
-**Anirban9372/Anirban9372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st year IT student @ IIEST Shibpur  
+Interests: **AI/ML research** · **Agentic AI** · **Graph Theory** · **Competitive Programming**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+`Python` `C` `NumPy` `Pandas` `scikit-learn` `PyTorch` `XGBoost` `Jupyter`  
+`Linux (Ubuntu 24)` `Git` `GitHub`
+
+## 📊 Projects
+| Project | Description | Stack |
+|---|---|---|
+| E-commerce Lead Classification | Binary classification pipeline — IITG Summer Analytics 2026 | XGBoost, RF, LR, Pandas |
+| Codeforces Solutions | Competitive programming solutions | C |
+
+## 🏆 Competitive Programming
+- Codeforces handle: [Anirban9372](https://codeforces.com/profile/Anirban9372)
+- Div3 contestant — solved 1400–1600 rated problems
+
+
+## 📫 Contact
+- 📧 your-email@gmail.com
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/anirban-pal-9b98421b2/))
+
+---
+*Open to remote research internships in AI/ML, data science, and graph theory*## Hi there 👋
+
+
