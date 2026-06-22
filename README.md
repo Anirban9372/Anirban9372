@@ -7,7 +7,7 @@ Interests: **AI/ML research** · **Agentic AI** · **Graph Theory** · **Competi
 
 ## 🔧 Tech Stack
 `Python` `C` `NumPy` `Pandas` `scikit-learn` `PyTorch` `XGBoost` `Jupyter`  
-`Linux (Ubuntu 24)` `Git` `GitHub`
+`Linux (Ubuntu 26.04)` `Git` `GitHub`
 
 ## 📊 Projects
 | Project | Description | Stack |
